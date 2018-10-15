@@ -9,8 +9,9 @@
 	- 安装google-chrome
 	- 安装vscode编辑器
 
-- 使用
-		sh config.sh
+- 使用方法
+
+			sh config.sh
 
 - 注意
 	> 部分更改需要重启计算机
